@@ -27,6 +27,5 @@ template.xlsx 檔案中分為兩個試算表(sheets)，第一個是 accepted nam
 | acceptedFamily        | 接受的科名        | 選填欄位，若 family 非 APG/PPG 系統，請填 APG/PPG 科名|
 | scientificName        | 學名不含作者。種以下單位階層名請使用 var./subsp./fo.       | 必填欄位|
 | acceptedNamecode      | 接受的唯一識別碼，請以 accepted names 中的 namecode 為依據 |
+| associatedReferences  | 發表文獻          | 選填欄位 |
 | notes                 | 備註              | 選填欄位 |
-
-
